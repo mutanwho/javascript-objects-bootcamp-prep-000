@@ -6,5 +6,5 @@ return playlist
 };
   
 function removeFromPlaylist(playlist, artistName){
-delete playlist.artistName['Phil Ochs']
+delete playlist.artistName['Slowdive']
 };
