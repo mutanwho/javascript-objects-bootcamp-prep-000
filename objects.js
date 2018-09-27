@@ -7,4 +7,5 @@ return playlist
   
 function removeFromPlaylist(playlist, artistName){
 delete playlist.'Slowdive';
+return playlist
 };
